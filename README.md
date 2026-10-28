@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project1
 
 ## Multimodal Construction Intelligence Platform
@@ -77,3 +78,7 @@ The suite covers JSON parsing, cost calculations, INR formatting, image validati
 - Asset valuation is a pro-rata estimate and is not a registered-valuer assessment.
 - Crack widths and hazard detections are visual estimates from a language model. They must be verified by a qualified engineer or safety officer. The app is decision support, not a substitute for professional inspection.
 - Concept renderings from Pollinations AI are illustrative only.
+=======
+# construction-intelligence-platform
+AI-powered construction intelligence platform for PPE safety audits, crack detection, project cost estimation, weather-aware protocols, and engineering assistance using Streamlit and Google Gemini.
+>>>>>>> 9cd4a3412d62feaef7518c669a248634a77201a9
